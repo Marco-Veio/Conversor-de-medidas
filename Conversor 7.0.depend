@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1477840829 source:c:\users\marco aurélio\desktop\conversor 7.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1477840829 source:c:\users\marco aurélio\documents\codeblocks\projetos\conversor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
+1514782495 source:c:\users\marco\onedrive\documentos\codeblocks\projetos\conversor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<math.h>
+	<locale.h>
+
